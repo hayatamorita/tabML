@@ -9,7 +9,7 @@ __pycache__/
 .venv/
 catboost_info/
 notebooks/catboost_info/
-
+skills
 data/raw/*
 !data/raw/.gitkeep
 
